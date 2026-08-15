@@ -1,0 +1,18 @@
+# Visual Studio / .NET build artifacts
+bin/
+obj/
+*.pdb
+*.user
+*.suo
+
+# Local editor and operating-system files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+~$*
